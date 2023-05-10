@@ -1,4 +1,10 @@
-/*12073342, Aaron Palpallatoc, S18*/
+/*
+Copyright (c) 2021, ubergonmx
+All rights reserved.
+
+This source code is licensed under the BSD-style license found in the
+LICENSE file in the root directory of this source tree. 
+*/
 
 #include <stdio.h>
 #include <stdlib.h> /* I used system function to clear screen*/
